@@ -1,6 +1,7 @@
 This is first line in a
 This is second line in a
 This is 3rd line in a
-This is 4th line in a
 This change is done via feature2 branch
 new line to understand git pull and committ changes 
+deleted line 4 
+addding agaun line 7
